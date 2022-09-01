@@ -1,0 +1,13 @@
+.container-fluid{
+ padding: 0px !important;
+}
+
+.navegacion{
+  text-align: end;
+  justify-content: end;
+}
+
+.navbar{
+ background-color:#040454;
+}
+

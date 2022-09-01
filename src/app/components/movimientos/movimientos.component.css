@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+}
+
+.row{
+  margin: 30px;
+}
+.col-12{
+  display: flex;
+  justify-content: end;
+
+}
